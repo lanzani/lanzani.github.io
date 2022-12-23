@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federico Lanzani</title>
+    <link>https://lanzani.github.io/</link>
+    <description>Recent content on Federico Lanzani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Dec 2022 21:53:12 +0100</lastBuildDate><atom:link href="https://lanzani.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Titolo del post</title>
+      <link>https://lanzani.github.io/posts/mypost/</link>
+      <pubDate>Fri, 23 Dec 2022 21:53:12 +0100</pubDate>
+      
+      <guid>https://lanzani.github.io/posts/mypost/</guid>
+      <description>Titolo Sottotitolo test test test
+Quote</description>
+    </item>
+    
+  </channel>
+</rss>
